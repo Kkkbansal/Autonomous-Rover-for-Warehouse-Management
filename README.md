@@ -1,6 +1,6 @@
 # Autonomous Rover for Warehouse Rack Inventory Management System
 
-An intelligent autonomous rover designed for **real-time warehouse inventory auditing and management**, developed for **Inter IIT Tech Meet 14.0 – Team 33**.
+An intelligent autonomous rover designed for **real-time warehouse inventory auditing and management**, developed for **Inter IIT Tech Meet 14.0**.
 
 The system performs **autonomous navigation, vertical rack scanning, QR-code detection, and real-time inventory reporting**, reducing manual audit cycles from **1–2 weeks to just 1 day** with **<1% discrepancy**.
 
@@ -197,7 +197,7 @@ Add manipulation capabilities for:
 
 ## Team
 
-**Team 33 – Inter IIT Tech Meet 14.0**
+**Inter IIT Tech Meet 14.0**
 
 Project: *Autonomous Rover for Warehouse Rack Inventory Management System*
 
